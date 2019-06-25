@@ -83,7 +83,7 @@ If the ICU predefined collators are not appropriate for your intended usage, you
 can
 define your own set of rules and instantiate a collator that uses them. For more
 details, please see [the section on collation
-customization](http://icu-project.org/userguide/Collate_Customization.html) .
+customization](customization/index.md) .
 
 This example demonstrates the instantiation of a collator.
 
@@ -231,7 +231,7 @@ CollationKey object instance (a wrapper around a sort key).
 
 Sort keys are generally only useful in databases or other circumstances where
 function calls are extremely expensive. See [Sortkeys vs
-Comparison](http://userguide.icu-project.org/collation/concepts#TOC-Sortkeys-vs-Comparison).
+Comparison](concepts#TOC-Sortkeys-vs-Comparison).
 
 ### Sort Key Features
 

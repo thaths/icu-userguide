@@ -1061,7 +1061,7 @@ that may appear on the output side of a rule. This means nested function calls
 are supported.
 
 For more information on the use of rules, and more examples of the syntax in
-use, see the [tutorial](http://icu-project.org/userguide/TransformRule.html) .
+use, see the [tutorial](rules.md) .
 
 ### Regular Expression
 

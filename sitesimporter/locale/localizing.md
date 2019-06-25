@@ -122,7 +122,7 @@ Defined at:
 [icuhtml/design/bnf_rb.txt](http://source.icu-project.org/repos/icu/icuhtml/trunk/design/bnf_rb.txt)
 
 To use with ICU4C, see the [Resource Bundle
-APIs](http://userguide.icu-project.org/locale/resources#TOC-Resource-Bundle-APIs)
+APIs](resources.md#TOC-Resource-Bundle-APIs)
 section of this userguide.
 
 Example: (de.txt)

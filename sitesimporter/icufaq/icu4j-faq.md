@@ -41,13 +41,13 @@ as 3.8, 4.4 and 4.8 (odd number at the second digit is reserved for development
 milestones, such as 4.7). The first digit alone has no special meanings,
 therefore, upgrade from 3.8 to 4.0 is nothing much different from upgrading from
 4.0 to 4.2. (See the user guide section [Version Numbers in
-ICU](http://userguide.icu-project.org/design#TOC-Version-Numbers-in-ICU) for the
+ICU](../design.md#TOC-Version-Numbers-in-ICU) for the
 details)
 In general, two different reference releases are not binary compatible (i.e.
 drop-in jar file replacement would not work). To use a new reference version of
 ICU4J, you should rebuild your application with the new ICU4J library. ICU
 project has the [API compatibility
-policy](http://userguide.icu-project.org/design#TOC-ICU-API-compatibility). As
+policy](../design.md#TOC-ICU-API-compatibility). As
 long as you're using ICU APIs marked as @stable in the API reference
 documentation, your application should successfully compile with the new
 reference version of ICU4J library without any source code modifications. (Note:

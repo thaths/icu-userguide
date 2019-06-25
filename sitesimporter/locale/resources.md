@@ -121,7 +121,7 @@ the data stored in resource bundles.
 
 Resource bundles rely on the ICU data framework. For more information on the
 functioning of ICU data, see the appropriate
-[section](http://icu-project.org/userguide/icudata.html) .
+[section](../icudata.md) .
 
 Users of the ICU library can also use the resource bundle framework to store and
 retrieve localizable data in their projects.
@@ -734,7 +734,7 @@ steps:
     that case you need to use the package data tool. It can produce either a
     memory mapped file or a dynamically linked library. For more information on
     how to use package data tool, see the appropriate
-    [section](http://icu-project.org/userguide/icudata.html) .
+    [section](../icudata.md) .
 
 Rolling out your own data takes some practice, especially if you want to package
 it all together. You might want to take a look at how we package data. Good

@@ -248,7 +248,7 @@ all directories and matching .dat files mentioned before checking in
 already-loaded package files. This allows overriding of packaged data items with
 single files after installation but costs some time for filesystem accesses.
 This is usually done only once per data item; see [User Data
-Caching](http://icu-project.org/userguide/icudata.html#data_caching) below.
+Caching](icudata.html#data_caching) below.
 
 ### Single Data Files vs. Packages
 
@@ -703,7 +703,7 @@ resource bundles:
 [genuca](https://github.com/unicode-org/icu/blob/master/icu4c/source/tools/genuca/),
 [genrb](https://github.com/unicode-org/icu/blob/master/icu4c/source/tools/genrb/)
 Rule-based break iterator data .txt: [Boundary Analysis
-chapter](http://icu-project.org/userguide/boundaryAnalysis.html) .brk:
+chapter](boundaryanalysis/index.md) .brk:
 [source/common/rbbidata.h](https://github.com/unicode-org/icu/blob/master/icu4c/source/common/rbbidata.h)
 [genbrk](https://github.com/unicode-org/icu/blob/master/icu4c/source/tools/genbrk/)
 Dictionary-based break iterator data (ICU 50 & later) .txt: [gendict.cpp

@@ -2,8 +2,9 @@
 
 ## Overview
 
-This version of the ICU User Guide is maintained via Google Sites. The Site
-address is <http://sites.google.com/site/icuprojectuserguide/>
+This version of the ICU User Guide is maintained in GitHub in markdown format.
+The Site address is
+<https://github.com/unicode-org/icu/tree/master/docs/userguide>
 
 Editors are also usually ICU committers. Edit rights are granted by other Site
 owners and collaborators.

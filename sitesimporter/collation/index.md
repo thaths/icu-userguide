@@ -122,7 +122,7 @@ The basic ICU Collation Service is provided by two main categories of APIs:
     this only improves performance for large numbers of strings because sorting
     via the comparison functions is very fast. For more information, see
     [Sortkeys vs
-    Comparison](http://userguide.icu-project.org/collation/concepts#TOC-Sortkeys-vs-Comparison).
+    Comparison](concepts.md#TOC-Sortkeys-vs-Comparison).
 
 ICU provides an AlphabeticIndex API for generating language-appropriate
 sorted-section labels like in dictionaries and phone books.

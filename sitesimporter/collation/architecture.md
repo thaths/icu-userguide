@@ -188,8 +188,7 @@ be wasted. However, if you use too small buffers, you will lose performance if
 generated sort keys are longer than supplied buffers too often. A good strategy
 for this problem would be to manually manage a large buffer for storing sortkeys
 and keep a list of indices to sort keys in this buffer (see the "large buffers"
-(§) [Collation
-Example](http://icu-project.org/userguide/Collate_ServiceArchitecture.html#Large_Buffers)
+(§) [Collation Example](#Large_Buffers)
 for more details).
 
 Here are some rules of a thumb, please do not rely on them. If you are looking
